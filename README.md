@@ -7,8 +7,8 @@ Practice with API, web-scraping and SQL.
 
 #### Movie Genie
 
-Used IBM Watson API to perform a sentiment analysis on user input for recommending movie genres. 
-Got showtimes of recommended genres of all cinemas after current time in a specific zipcode using ishowtimes API. 
+Used IBM Watson API to perform a sentiment analysis on user input for recommending movie genres.   
+Got showtimes of recommended genres of all cinemas after current time in a specific zipcode using ishowtimes API.   
 Displayed the whole process using Flask. 
 
 Individual Contributions: (Please refer to the following sections in the project notebook)
